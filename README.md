@@ -1,1 +1,1 @@
-Above file Macro6Dto4D_1.ods is supplied by macro for a 6D to 4D flow. Macro has been written in the OpenOffice Basic software and can be a sort of counting calculator from 6D to 4D.
+Above file Macro6Dto4D_1.ods is supplied by macro for a 6D to 4D flow. Macro has been written in the OpenOffice Basic software and can be a sort of counting calculator from 6D to 4D. File Ruch_robota.png shows movement of robot through 20 positions visualazed in 4D space.
